@@ -1,2 +1,2 @@
-# Alleartstudio-HTML-CSS
- Pequeno projeto utilizando HTML e CSS
+# Site com HTML e CSS - Alleartstudio
+ Pequeno projeto de um site utilizando HTML e CSS
